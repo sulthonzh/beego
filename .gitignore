@@ -4,3 +4,22 @@
 *.swp
 *.swo
 beego.iml
+
+# Environment files
+.env
+.env.*
+
+# Build/compilation artifacts (common patterns)
+dist/
+build/
+node_modules/
+
+# Go-specific patterns
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
