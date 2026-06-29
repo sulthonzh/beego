@@ -23,3 +23,10 @@ node_modules/
 *.test
 *.out
 vendor/
+
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
+*.log
+coverage/
